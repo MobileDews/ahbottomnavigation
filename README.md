@@ -23,7 +23,7 @@ Library to implement the Bottom Navigation component from Material Design guidel
 ### Gradle
 ```groovy
 dependencies {
-    compile 'com.github.MobileDews:ahbottomnavigation:v2.0.7'
+    compile 'com.github.MobileDews:ahbottomnavigation:v2.0.8'
 }
 ```
 ### XML
